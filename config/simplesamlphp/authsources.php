@@ -11,12 +11,16 @@ $config = array(
         'user1:user1pass' => array(
             'uid' => array('1'),
             'eduPersonAffiliation' => array('group1'),
-            'email' => 'user1@example.com',
+            'Email Address' => 'user1@example.com',
+            'First Name' => 'User',
+            'Last Name' => 'One',
         ),
         'user2:user2pass' => array(
             'uid' => array('2'),
             'eduPersonAffiliation' => array('group2'),
-            'email' => 'user2@example.com',
+            'Email Address' => 'user2@example.com',
+            'First Name' => 'User',
+            'Last Name' => 'Two',
         ),
     ),
 
