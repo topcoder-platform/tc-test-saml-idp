@@ -15,3 +15,8 @@ $metadata[getenv('SIMPLESAMLPHP_SP_ENTITY_ID_02')] = array(
     'SingleLogoutService' => getenv('SIMPLESAMLPHP_SP_SINGLE_LOGOUT_SERVICE_02'),
 );
 
+$metadata[getenv('SIMPLESAMLPHP_SP_ENTITY_ID_03')] = array(
+    'AssertionConsumerService' => getenv('SIMPLESAMLPHP_SP_ASSERTION_CONSUMER_SERVICE_03'),
+    'SingleLogoutService' => getenv('SIMPLESAMLPHP_SP_SINGLE_LOGOUT_SERVICE_03'),
+);
+
