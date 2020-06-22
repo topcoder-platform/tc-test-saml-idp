@@ -21,6 +21,13 @@ $config = array(
             'Email Address' => 'user2@example.com',
             'First Name' => 'User',
             'Last Name' => 'Two',
+        ),  
+        'user3:user3pass' => array(
+            'uid' => array('3'),
+            'eduPersonAffiliation' => array('group3'),
+            'Email Address' => 'user3@example.com',
+            'First Name' => 'User',
+            'Last Name' => 'Three',
         ),
     ),
 
